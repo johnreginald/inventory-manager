@@ -1,0 +1,22 @@
+{
+  "name": "Template",
+  "authors": [
+    "John Reginald <johnthelinux@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jasny-bootstrap": "^3.1.3"
+  }
+}

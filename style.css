@@ -1,0 +1,24 @@
+.navigation {
+	background: navy;
+	color: white;
+	padding: 5px 0;
+}
+.logo {
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
+.links {
+	padding: 18px 0 12px 0;
+}
+.links a {
+	color: white;
+	font-size: 16px;
+}
+.links a:hover {
+	text-decoration: none;
+}
+.breadcrumb-text {
+	font-size: 16px;
+	margin-top: 5px;
+}
